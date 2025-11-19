@@ -1,0 +1,31 @@
+{
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "fa4002e4-bc2e-4382-810a-a1f8487c26d6",
+        "name": "REST API",
+        "designId": "0f9a166f-0697-493d-a7d2-0f31ad891fa9",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "da548a87-7c40-4ec5-aef4-9a9b36ce47fe",
+        "name": "Supabase",
+        "designId": "0f9a166f-0697-493d-a7d2-0f31ad891fa9",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh5bGNkZGN2ZGJicnp6ZnNyaWxpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzYzNDg1NzIsImV4cCI6MjA1MTkyNDU3Mn0.xdVTwhvjZAmujIob6BN6VEYZVdtloGKky2UF-MFUpvc",
+            "projectUrl": "https://hylcddcvdbbrzzfsrili.supabase.co",
+            "customDomain": "",
+            "environments": {
+                "production": {
+                    "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh5bGNkZGN2ZGJicnp6ZnNyaWxpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzYzNDg1NzIsImV4cCI6MjA1MTkyNDU3Mn0.xdVTwhvjZAmujIob6BN6VEYZVdtloGKky2UF-MFUpvc",
+                    "branch": null,
+                    "branchSlug": null,
+                    "projectUrl": "https://hylcddcvdbbrzzfsrili.supabase.co",
+                    "customDomain": "",
+                    "baseProjectRef": "hylcddcvdbbrzzfsrili"
+                }
+            },
+            "realtimeTables": {}
+        }
+    }
+}
